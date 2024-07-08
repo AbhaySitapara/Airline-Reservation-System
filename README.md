@@ -33,7 +33,7 @@ Check out the presentation demo video of the project on LinkedIn:
 ![Screenshot 5](https://github.com/HetRojivadiya/Airline-Reservation-System/raw/master/Airline/5.png)
 
 
-![Screenshot 8](https://github.com/HetRojivadiya/Airline-Reservation-System/raw/master/Airline/8.png)
+![Screenshot 8](https://github.com/HetRojivadiya/Airline-Reservation-System/raw/master/Airline/6.png)
 ![Screenshot 9](https://github.com/HetRojivadiya/Airline-Reservation-System/raw/master/Airline/9.png)
 ![Screenshot 10](https://github.com/HetRojivadiya/Airline-Reservation-System/raw/master/Airline/10.png)
 ![Screenshot 11](https://github.com/HetRojivadiya/Airline-Reservation-System/raw/master/Airline/11.png)
